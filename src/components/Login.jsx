@@ -43,7 +43,7 @@ function Login() {
           className="border border-white px-6 py-2 rounded-md space-y-3 w-96"
         >
           <h1 className="text-2xl text-center">
-            Demo Chat <span className="text-green-500 font-semibold"> Application</span>
+            Demo Chat <span className="text-white font-semibold"> Application</span>
           </h1>
           <h2 className="text-xl text-white font-bold">Login : </h2>
           <br />
@@ -103,7 +103,7 @@ function Login() {
               No Account? Register Here
               <Link
                 to="/signup"
-                className="text-blue-500 underline cursor-pointer ml-1"
+                className="text-white underline cursor-pointer ml-1"
               >
                 Signup
               </Link>
